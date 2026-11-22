@@ -1,0 +1,21 @@
+
+# Raw datasets
+data/raw/*
+data/processed/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Operating system
+.DS_Store
